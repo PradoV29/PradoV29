@@ -30,6 +30,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PradoV29&show_icons=true&theme=transparent)
-![build](https://github.com/PradoV29/PradoV29/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/PradoV29/PradoV29)
-![pv](https://pageview.vercel.app/?github_user=PradoV29)
